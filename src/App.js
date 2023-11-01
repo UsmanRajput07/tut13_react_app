@@ -5,8 +5,6 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Layout from "./pages/Layout";
 import NotFound from "./pages/NotFound";
-import "./css/bootstrap.min.css";
-import "./css/style.css";
 
 function App() {
   return (
